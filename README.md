@@ -22,8 +22,8 @@ previous audio signal and explain how you choose them?
         
 2. Plot the modulated signal waveform in time domain and the modulated signal
 amplitude and phase in frequency domain.
-    
-    ![03 Analysis of Modulated Signal.png](./doc/03_Analysis_of_Modulated_Signal.png)
+
+    ![Analysis of Modulated Signal.png](./doc/Analysis_of_Modulated_Signal.png)
     
 3. What do you think is a carrier’s minimum Amplitude (A) to avoid over
 modulation? What is the problem with the AM signal when it is over-modulated?
